@@ -1,2 +1,2 @@
-# yandex-interview-atm
+# atm machine
 build an atm machine

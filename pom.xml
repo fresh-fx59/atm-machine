@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>org.example</groupId>
-  <artifactId>yandex-interview</artifactId>
+  <artifactId>atm-machine</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>yandex-interview</name>
+  <name>atm-machine</name>
   <url>http://maven.apache.org</url>
 
   <properties>
